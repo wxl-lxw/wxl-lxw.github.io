@@ -2,7 +2,7 @@
 title: BY Blog
 SEOTitle: 王熙隆的个人主页 | BY Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: 2046283166@qq.com
 description: "欢迎大家进入wxl的个人主页~~~"
 keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
 url: "http://wangxilong.com"          # your host, for absolute URL
@@ -11,19 +11,19 @@ github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "你猜里面是什么^_^"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+weibo_username:     GlockieW
+zhihu_username:     局外人
+github_username:    wxl-lxw
+facebook_username:  王熙隆
+#jianshu_username:   暂无
+twitter_username:   王熙隆
 
 
 
