@@ -1,0 +1,12 @@
+source:      .
+destination: ./_site
+includes:    ./_includes
+baseurl: ""
+url: "https://jyqhahah.github.io"
+
+collections:
+  projects:
+    output: true
+
+plugins:
+  - jekyll-sitemap

@@ -1,0 +1,21 @@
+experiences:
+
+- place: "Duke University"
+  time: "Aug. 2024 – Present"
+  title: "Ph.D. Student"
+  category: "school"
+
+- place: "Li Auto"
+  time: "Mar. 2024 – Jul. 2024"
+  title: "Research Intern"
+  category: "work"
+
+- place: "Duke University"
+  time: "Aug. 2022 – Oct. 2023"
+  title: "Undergraduate Researcher"
+  category: "school"
+
+- place: "University of Science and Technology of China"
+  time: "Sept. 2020 – June. 2024"
+  title: "B.S. Student"
+  category: "school"
