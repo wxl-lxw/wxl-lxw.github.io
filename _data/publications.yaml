@@ -1,7 +1,7 @@
 papers:
 
   - title: "WebSentinel: Detecting and Localizing Prompt Injection Attacks for Web Agents"
-    authors: "Xilong Wang, Yinuo Liu<sup>‡</sup>*, Zhun Wang, Dawn Song, Neil Gong"
+    authors: "Xilong Wang, Yinuo Liu<sup>‡</sup>, Zhun Wang, Dawn Song, Neil Gong"
     venue: "arXiv Preprint, 2026"
     paper_pdf: "https://arxiv.org/abs/2602.03792"
     code: "https://github.com/wxl-lxw/WebSentinel"
