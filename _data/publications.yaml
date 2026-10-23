@@ -30,7 +30,7 @@ papers:
 
   - title: "WAInjectBench: Benchmarking Prompt Injection Detections for Web Agents"
     authors: "Yinuo Liu*, <b>Xilong Wang*</b>, Ruohan Xu, Yuqi Jia, Neil Zhenqiang Gong"
-    venue: "arXiv Preprint, 2025"
+    venue: "ACM CCS Workshop on Security, Privacy, and Safety of Agentic AI Systems (Agent-Sec), 2026"
     paper_pdf: "https://arxiv.org/pdf/2510.01354"
     code: "https://github.com/Norrrrrrr-lyn/WAInjectBench"
     selected: y
