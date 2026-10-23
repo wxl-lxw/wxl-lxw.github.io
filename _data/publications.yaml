@@ -1,17 +1,35 @@
 papers:
 
+  - title: "Same-Origin Policy for Agentic Browsers"
+    authors: "Xilong Wang, Xiaoxing Chen<sup>‡</sup>, Patrick Li, Dawn Song, Neil Gong"
+    venue: "arXiv Preprint, 2026"
+    paper_pdf: "https://arxiv.org/pdf/2606.14027"
+    selected: y
+
+  - title: "CleanBase: Detecting Malicious Documents in RAG Knowledge Databases"
+    authors: "Weifei Jin<sup>‡</sup>*, Xilong Wang*, Wei Zou, Jinyuan Jia, Neil Gong"
+    venue: "arXiv Preprint, 2026"
+    paper_pdf: "https://arxiv.org/pdf/2605.00460"
+    selected: y
+
+  - title: "AlignSentinel: Alignment-Aware Detection of Prompt Injection Attacks"
+    authors: "Yuqi Jia, Ruiqi Wang, Xilong Wang, Chong Xiang, Neil Gong"
+    venue: "arXiv Preprint, 2026"
+    paper_pdf: "https://arxiv.org/pdf/2602.13597"
+    selected: y
+
   - title: "WebSentinel: Detecting and Localizing Prompt Injection Attacks for Web Agents"
     authors: "Xilong Wang, Yinuo Liu<sup>‡</sup>, Zhun Wang, Dawn Song, Neil Gong"
     venue: "arXiv Preprint, 2026"
-    paper_pdf: "https://arxiv.org/abs/2602.03792"
+    paper_pdf: "https://arxiv.org/pdf/2602.03792"
     code: "https://github.com/wxl-lxw/WebSentinel"
     selected: y
 
 
   - title: "WAInjectBench: Benchmarking Prompt Injection Detections for Web Agents"
-    authors: "Yinuo Liu<sup>‡</sup>*, Ruohan Xu<sup>‡</sup>*, <b>Xilong Wang*</b>, Yuqi Jia, Neil Zhenqiang Gong"
+    authors: "Yinuo Liu<sup>‡</sup>*, <b>Xilong Wang*</b>, Ruohan Xu<sup>‡</sup>, Yuqi Jia, Neil Zhenqiang Gong"
     venue: "arXiv Preprint, 2025"
-    paper_pdf: "https://arxiv.org/abs/2510.01354"
+    paper_pdf: "https://arxiv.org/pdf/2510.01354"
     code: "https://github.com/Norrrrrrr-lyn/WAInjectBench"
     selected: y
 
@@ -25,19 +43,19 @@ papers:
   - title: "StringLLM: Understanding the String Processing Capability of Large Language Models"
     authors: "<b>Xilong Wang</b>, Hao Fu, Jindong Wang, Neil Gong"
     venue: "International Conference on Learning Representations (ICLR), 2025"
-    paper_pdf: "https://arxiv.org/abs/2410.01208"
+    paper_pdf: "https://arxiv.org/pdf/2410.01208"
     code: "https://github.com/wxl-lxw/StringLLM"
     selected: y
 
   - title: "Provably Robust Federated Reinforcement Learning"
     authors: "Minghong Fang*, <b>Xilong Wang*</b>, Neil Gong"
     venue: "Proceedings of The Web Conference (WWW), 2025, <b>Oral</b> (Top 7.76%)"
-    paper_pdf: "https://arxiv.org/abs/2502.08123"
+    paper_pdf: "https://arxiv.org/pdf/2502.08123"
     selected: y
 
   - title: "ICStega: Image Captioning-based Semantically Controllable Linguistic Steganography"
     authors: "<b>Xilong Wang</b>, Yaofei Wang, Kejiang Chen, Jinyang Ding, Weiming Zhang, Nenghai Yu"
     venue: "IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2023"
-    paper_pdf: "https://arxiv.org/abs/2303.05830"
+    paper_pdf: "https://arxiv.org/pdf/2303.05830"
     selected: y
 
