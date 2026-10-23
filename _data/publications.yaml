@@ -51,7 +51,7 @@ papers:
 
   - title: "Provably Robust Federated Reinforcement Learning"
     authors: "Minghong Fang*, <b>Xilong Wang*</b>, Neil Gong"
-    venue: "Proceedings of The Web Conference (WWW), 2025, <b>Oral</b> (Top 7.76%)"
+    venue: "Proceedings of The Web Conference (WWW), 2025, <b style="color: red;">Oral</b>"
     paper_pdf: "https://arxiv.org/pdf/2502.08123"
     selected: y
 
