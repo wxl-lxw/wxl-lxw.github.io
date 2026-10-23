@@ -1,25 +1,27 @@
 papers:
 
   - title: "Same-Origin Policy for Agentic Browsers"
-    authors: "Xilong Wang, Xiaoxing Chen<sup>‡</sup>, Patrick Li, Dawn Song, Neil Gong"
+    authors: "<b>Xilong Wang</b>, Xiaoxing Chen, Patrick Li, Dawn Song, Neil Gong"
     venue: "arXiv Preprint, 2026"
     paper_pdf: "https://arxiv.org/pdf/2606.14027"
+    code: "https://github.com/wxl-lxw/BrowserOS-SOPGuard"
     selected: y
 
   - title: "CleanBase: Detecting Malicious Documents in RAG Knowledge Databases"
-    authors: "Weifei Jin<sup>‡</sup>*, Xilong Wang*, Wei Zou, Jinyuan Jia, Neil Gong"
+    authors: "Weifei Jin*, <b>Xilong Wang*</b>, Wei Zou, Jinyuan Jia, Neil Gong"
     venue: "arXiv Preprint, 2026"
     paper_pdf: "https://arxiv.org/pdf/2605.00460"
+    code: "https://github.com/WeifeiJin/CleanBase"
     selected: y
 
   - title: "AlignSentinel: Alignment-Aware Detection of Prompt Injection Attacks"
-    authors: "Yuqi Jia, Ruiqi Wang, Xilong Wang, Chong Xiang, Neil Gong"
+    authors: "Yuqi Jia, Ruiqi Wang, <b>Xilong Wang</b>, Chong Xiang, Neil Gong"
     venue: "arXiv Preprint, 2026"
     paper_pdf: "https://arxiv.org/pdf/2602.13597"
     selected: y
 
   - title: "WebSentinel: Detecting and Localizing Prompt Injection Attacks for Web Agents"
-    authors: "Xilong Wang, Yinuo Liu<sup>‡</sup>, Zhun Wang, Dawn Song, Neil Gong"
+    authors: "<b>Xilong Wang</b>, Yinuo Liu, Zhun Wang, Dawn Song, Neil Gong"
     venue: "arXiv Preprint, 2026"
     paper_pdf: "https://arxiv.org/pdf/2602.03792"
     code: "https://github.com/wxl-lxw/WebSentinel"
@@ -27,7 +29,7 @@ papers:
 
 
   - title: "WAInjectBench: Benchmarking Prompt Injection Detections for Web Agents"
-    authors: "Yinuo Liu<sup>‡</sup>*, <b>Xilong Wang*</b>, Ruohan Xu<sup>‡</sup>, Yuqi Jia, Neil Zhenqiang Gong"
+    authors: "Yinuo Liu*, <b>Xilong Wang*</b>, Ruohan Xu, Yuqi Jia, Neil Zhenqiang Gong"
     venue: "arXiv Preprint, 2025"
     paper_pdf: "https://arxiv.org/pdf/2510.01354"
     code: "https://github.com/Norrrrrrr-lyn/WAInjectBench"
@@ -35,7 +37,7 @@ papers:
 
 
   - title: "WebInject: Prompt Injection Attack to Web Agents"
-    authors: "<b>Xilong Wang</b>, John Bloch<sup>‡</sup> , Zedian Shao, Yuepeng Hu, Shuyan Zhou, Neil Gong"
+    authors: "<b>Xilong Wang</b>, John Bloch , Zedian Shao, Yuepeng Hu, Shuyan Zhou, Neil Gong"
     venue: "The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025"
     paper_pdf: "https://arxiv.org/pdf/2505.11717"
     selected: y
